@@ -44,7 +44,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: static/images/pleasant-turtle.jpg
         image_position: left
         actions:
           - label: Learn More
